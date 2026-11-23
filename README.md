@@ -2,7 +2,7 @@
 
 
 
-![Dashboard Screenshot]() 
+![Dashboard Screenshot](https://drive.google.com/file/d/1s2v_MZiJpWfk5oyDknq4RDV4KYlopJWx/view?usp=drivesdk) 
 
 
 
