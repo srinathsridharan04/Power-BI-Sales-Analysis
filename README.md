@@ -2,10 +2,9 @@
 
 
 
-![Dashboard Screenshot](images/dashboard.png) 
+![Dashboard Screenshot]() 
 
 
-https://github.com/yourusername/yourrepo/assets/123456/abc123.png
 
 This project is a Power BI dashboard built from 1,500 business sales records. The goal was to turn raw sales data into something a business owner could actually use to make decisions — not just charts for the sake of charts.
 
