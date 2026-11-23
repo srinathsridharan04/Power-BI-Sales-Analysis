@@ -1,9 +1,8 @@
 # Sales Revenue Dashboard (Power BI)
 
+## Sales Revenue Dashboard
 
-
-![Dashboard Screenshot](https://drive.google.com/file/d/1s2v_MZiJpWfk5oyDknq4RDV4KYlopJWx/view?usp=drivesdk) 
-
+![Sales Revenue Dashboard](https://drive.google.com/uc?export=view&id=1s2v_MZiJpWfk5oyDknq4RDV4KYlopJWx)
 
 
 This project is a Power BI dashboard built from 1,500 business sales records. The goal was to turn raw sales data into something a business owner could actually use to make decisions — not just charts for the sake of charts.
