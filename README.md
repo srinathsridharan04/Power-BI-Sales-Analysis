@@ -1,43 +1,26 @@
-# Sales Revenue Dashboard (Power BI)
+## Power BI Dashboards
 
-## Sales Revenue Dashboard
+### 1. Sales Analysis
+Analysed sales revenue, profit, salesperson performance and monthly sales trends.
 
-![Sales Revenue Dashboard](https://drive.google.com/uc?export=view&id=1s2v_MZiJpWfk5oyDknq4RDV4KYlopJWx)
+[View Sales Analysis Dashboard]([Screenshots/Sales-Analysis.png](https://drive.google.com/file/d/1XSCBvTxEt9oMnuyOdWJWr47FX6eAFUai/view?usp=drivesdk))
 
+### 2. Marketing Analysis
+Explored campaign performance, marketing ROI, conversion rates and marketing channels.
 
-This project is a Power BI dashboard built from 1,500 business sales records. The goal was to turn raw sales data into something a business owner could actually use to make decisions — not just charts for the sake of charts.
+[View Marketing Analysis Dashboard]([Screenshots/Marketing-Analysis.png](https://drive.google.com/file/d/1xQER0cdl4J9uKc9gLrctQQ4Yr0ZUfS-D/view?usp=drivesdk))
 
-## What it tracks
+### 3. Financial Analysis
+Analysed revenue, gross profit, net profit, expenses and budget performance.
 
-- Total profit, total revenue, and profit margin
-- Revenue and profit by product
-- Revenue and profit by region (East, West, North, South)
-- Monthly/quarterly sales trends
-- Lead conversion (converted vs not converted)
-- Which products contribute the most to overall revenue
+[View Financial Analysis Dashboard](https://drive.google.com/file/d/199fpUTetofk6EMwDOX6d5pby-7w-lUHz/view?usp=drivesdk)
 
-## Tools used
+### 4. HR Analytics
+Explored employee attrition, department headcount, manager-wise attrition and salary metrics.
 
-Power BI Desktop, Power Query for cleaning the data, and DAX for the calculated measures (profit margin, custom lead status, etc.)
+[View HR Analytics Dashboard]([Screenshots/HR-Analytics.png](https://drive.google.com/file/d/1O77MRiB9r5NcUwOtJWdpsWSwhUnx8ZUY/view?usp=drivesdk)
 
-## Dataset
+### 5. Supply Chain Management
+Analysed production, products sold, shipping costs, transportation and defect rates.
 
-1,500 rows covering product name, region, salesperson, revenue, profit, date, and lead status.
-
-## What the data shows
-
-Laptops bring in far more revenue and profit than anything else in the catalog. East and North are the stronger regions, while South lags behind. Revenue dips around August but picks back up by November. Out of 642 leads, about 61% converted — so there's still a decent chunk left on the table that didn't close.
-
-## How to open it
-
-1. Download the `.pbix` file
-2. Open it in Power BI Desktop
-3. Use the region buttons at the top to filter the whole report
-
-## Possible next steps
-
-Forecasting future quarters, breaking down performance by individual salesperson, and looking at conversion rate by region or product.
-
-## Author
-
-Srinath S
+[View Supply Chain Dashboard](https://drive.google.com/file/d/10Wld8KpH_IK4h3uPvkXLOWzYPf1wpYMf/view?usp=drivesdk)
